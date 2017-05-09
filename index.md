@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages of CMSretourSur
+## Bienvenue sur Retour sur la Course à l'espace
 
-You can use the [editor on GitHub](https://github.com/lilysa/CMSretourSur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+La course à l'espace est une des manifestations de la Guerre froide à laquelle se sont livrées les deux superpuissances à compter de la fin de la Seconde Guerre mondiale et qui s'était d'abord traduit par une course aux armements avec la mise au point des premières bombes atomiques, des bombardiers à très long rayon d'action puis des missiles porteurs d'armes nucléaires. La course à l'espace démarre lorsque les Soviétiques réussissent à lancer le premier satellite artificiel Spoutnik 1 le 4 octobre 1957 remettant ainsi en cause la suprématie technologique des États-Unis. Le retentissement planétaire de cette première spatiale entraine une réaction très rapide des États-Unis qui investissent massivement pour rattraper leur retard dans le domaine de l'astronautique.
 
-Go to [page2](https://lilysa.github.io/CMSretourSur/page2) to see smth awesome ! ;)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour plus d'informations sur le [programme Apollo](https://lilysa.github.io/CMSretourSur/page2), cliquez sur le lien.
 
 ### Markdown
 
