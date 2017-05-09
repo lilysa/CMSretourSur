@@ -1,0 +1,5 @@
+# Le programme Apollo
+## Poser un homme sur la lune
+Le programme Apollo est le programme spatial de la NASA mené durant la période 1961 – 1975 qui a permis aux États-Unis d'envoyer pour la première fois des hommes sur la Lune. Il fut lancé par John F. Kennedy le 25 mai 1961, essentiellement pour reconquérir le prestige américain mis à mal par les succès de l'astronautique soviétique, à une époque où la guerre froide entre les deux superpuissances battait son plein.
+J. F. Kennedy a dit à ce sujet : 
+>Nous avons choisi d'aller sur la Lune au cours de cette décennie et d'accomplir d'autres choses encore, non pas parce que c'est facile, mais justement parce que c'est difficile. Parce que cet objectif servira à organiser et à offrir le meilleur de notre énergie et de notre savoir-faire, parce que c'est le défi que nous sommes prêt à relever, celui que nous refusons de remettre à plus tard, celui que nous avons la ferme intention de remporter, tout comme les autres.
